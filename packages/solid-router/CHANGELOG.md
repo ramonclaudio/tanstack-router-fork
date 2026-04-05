@@ -1,5 +1,11 @@
 # @tanstack/solid-router
 
+## 2.0.0-beta.10
+
+### Patch Changes
+
+- chore: sync main to pre-release branch ([#7106](https://github.com/TanStack/router/pull/7106))
+
 ## 2.0.0-alpha.9
 
 ### Patch Changes

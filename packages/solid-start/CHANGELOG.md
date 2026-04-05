@@ -1,5 +1,16 @@
 # @tanstack/solid-start
 
+## 2.0.0-beta.11
+
+### Patch Changes
+
+- chore: sync main to pre-release branch ([#7106](https://github.com/TanStack/router/pull/7106))
+
+- Updated dependencies [[`bb6285d`](https://github.com/TanStack/router/commit/bb6285d888cc7d0b36786541fa16f8d4abf67bba)]:
+  - @tanstack/solid-start-client@2.0.0-beta.10
+  - @tanstack/solid-start-server@2.0.0-beta.10
+  - @tanstack/solid-router@2.0.0-beta.10
+
 ## 2.0.0-alpha.10
 
 ### Patch Changes
