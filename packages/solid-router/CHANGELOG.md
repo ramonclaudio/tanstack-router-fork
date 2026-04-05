@@ -1,5 +1,11 @@
 # @tanstack/solid-router
 
+## 2.0.0-alpha.8
+
+### Patch Changes
+
+- Upgrade to Solid 2.0.0-beta.5 ([#7102](https://github.com/TanStack/router/pull/7102))
+
 ## 2.0.0-alpha.7
 
 ### Patch Changes
