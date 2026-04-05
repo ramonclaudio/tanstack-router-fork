@@ -1,5 +1,14 @@
 # @tanstack/solid-start-server
 
+## 2.0.0-alpha.9
+
+### Patch Changes
+
+- chore: bump solid-query and vite-plugin-solid ([#7103](https://github.com/TanStack/router/pull/7103))
+
+- Updated dependencies [[`15652a5`](https://github.com/TanStack/router/commit/15652a590d666d7ff566e8f9c102ca9f3792418d)]:
+  - @tanstack/solid-router@2.0.0-alpha.9
+
 ## 2.0.0-alpha.8
 
 ### Patch Changes
