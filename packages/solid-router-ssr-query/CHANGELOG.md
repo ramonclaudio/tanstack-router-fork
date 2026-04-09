@@ -1,5 +1,11 @@
 # @tanstack/solid-router-ssr-query
 
+## 2.0.0-beta.13
+
+### Patch Changes
+
+- fix: adjust pre-release ranges ([#7130](https://github.com/TanStack/router/pull/7130))
+
 ## 2.0.0-beta.12
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @tanstack/solid-router
 
+## 2.0.0-beta.11
+
+### Patch Changes
+
+- fix: adjust pre-release ranges ([#7130](https://github.com/TanStack/router/pull/7130))
+
 ## 2.0.0-beta.10
 
 ### Patch Changes
